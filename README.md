@@ -8,7 +8,6 @@
 
 ## Hello EDIT
 
-##stage2
-Please fork this rep to issue close
+adding some text please fork this repository
 
 
